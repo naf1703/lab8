@@ -8,4 +8,3 @@
       print('Доброй ночи,мир!');
   end;
 end.
-//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
